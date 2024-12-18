@@ -1,3 +1,3 @@
-module tlog
+module github.com/carlzhc-go/tlog
 
-go 1.23.2
+go 1.21.0
